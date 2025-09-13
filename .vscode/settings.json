@@ -2,4 +2,10 @@
   "github.copilot.enable": {
     "*": false
   }
+  "files.exclude": {
+        "**/.vscode": true,
+        "**/.gitignore": true,
+        "**/tests": true,
+        "**/.github":true
+    }
 }
